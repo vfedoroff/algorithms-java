@@ -61,8 +61,8 @@ class FrequencyQueriesTest {
         this.answer = answer;
       }
 
-      public int[][] queries;
-      public List<Integer> answer;
+      public transient int[][] queries;
+      public transient List<Integer> answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

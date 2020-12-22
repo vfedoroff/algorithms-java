@@ -31,9 +31,9 @@ class GreedyFloristTest {
         this.answer = answer;
       }
 
-      public int k;
-      public int[] c;
-      public int answer;
+      public transient int k;
+      public transient int[] c;
+      public transient int answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

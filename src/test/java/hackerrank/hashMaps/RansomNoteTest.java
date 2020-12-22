@@ -44,9 +44,9 @@ class RansomNoteTest {
         this.answer = answer;
       }
 
-      public String[] magazine;
-      public String[] note;
-      public String answer;
+      public transient String[] magazine;
+      public transient String[] note;
+      public transient String answer;
     }
 
     Function<String[], String[], String> func = (String[] magazine, String[] note) -> {

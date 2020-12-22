@@ -33,9 +33,9 @@ class LeftRotationTest {
         this.answer = answer;
       }
 
-      public int[] arr;
-      public int d;
-      public int[] answer;
+      public transient int[] arr;
+      public transient int d;
+      public transient int[] answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

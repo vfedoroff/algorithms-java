@@ -41,26 +41,28 @@ class NewYearChaosTest {
         this.answer = answer;
       }
 
-      public int[] arr;
-      public String answer;
+      public transient int[] arr;
+      public transient String answer;
     }
+
     List<TestCase> cases = new ArrayList<TestCase>();
     cases.add(new TestCase(new int[] {2, 1, 5, 3, 4}, "3"));
     cases.add(new TestCase(new int[] {2, 5, 1, 3, 4}, "Too chaotic"));
     for (int i = 0; i < cases.size(); i++) {
       TestCase tc = cases.get(i);
 
-      PrintStream old = System.out;
+      try (PrintStream old = System.out) {
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        System.setOut(new PrintStream(baos));
+        minimumBribes(tc.arr);
+        System.out.flush();
+        System.setOut(old);
+        String res = baos.toString().trim();
+        assertEquals(tc.answer, res,
+            String.format("#%d when input: arr=%s expected: \"%s\", got: \"%s\", result: %s\n", i,
+                Arrays.toString(tc.arr), tc.answer, res, res.equals(tc.answer)));
 
-      ByteArrayOutputStream baos = new ByteArrayOutputStream();
-      System.setOut(new PrintStream(baos));
-      minimumBribes(tc.arr);
-      System.out.flush();
-      System.setOut(old);
-      String res = baos.toString().trim();
-      assertEquals(tc.answer, res,
-          String.format("#%d when input: arr=%s expected: \"%s\", got: \"%s\", result: %s\n", i,
-              Arrays.toString(tc.arr), tc.answer, res, res.equals(tc.answer)));
+      }
     }
   }
 }

@@ -64,8 +64,8 @@ class MinimumSwaps2Test {
         this.answer = answer;
       }
 
-      public int[] arr;
-      public int answer;
+      public transient int[] arr;
+      public transient int answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

@@ -32,9 +32,9 @@ class CrushTest {
         this.answer = answer;
       }
 
-      public int n;
-      public int[][] queries;
-      public long answer;
+      public transient int n;
+      public transient int[][] queries;
+      public transient long answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

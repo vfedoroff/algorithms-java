@@ -41,8 +41,8 @@ class SherlockAndAnagramsTest {
         this.answer = answer;
       }
 
-      public String s;
-      public int answer;
+      public transient String s;
+      public transient int answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

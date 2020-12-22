@@ -62,9 +62,9 @@ class CountTripletsTest {
         this.answer = answer;
       }
 
-      public List<Long> arr;
-      public long r;
-      public long answer;
+      public transient List<Long> arr;
+      public transient long r;
+      public transient long answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

@@ -24,8 +24,8 @@ class FlippingBitsTest {
         this.answer = answer;
       }
 
-      public long input;
-      public long answer;
+      public transient long input;
+      public transient long answer;
     }
     List<TestCase> cases = new ArrayList<TestCase>();
     cases.add(new TestCase(2147483647, 2147483648L));

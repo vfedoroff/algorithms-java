@@ -29,9 +29,9 @@ class TwoStringsTest {
         this.answer = answer;
       }
 
-      public String s1;
-      public String s2;
-      public String answer;
+      public transient String s1;
+      public transient String s2;
+      public transient String answer;
     }
 
     List<TestCase> cases = new ArrayList<TestCase>();

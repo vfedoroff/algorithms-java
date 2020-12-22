@@ -43,8 +43,8 @@ class TwoDArrayTest {
         this.answer = answer;
       }
 
-      public int[][] arr;
-      public int answer;
+      public transient int[][] arr;
+      public transient int answer;
     }
     List<TestCase> cases = new ArrayList<TestCase>();
     cases.add(new TestCase(new int[][] {{1, 1, 1, 0, 0, 0}, {0, 1, 0, 0, 0, 0}, {1, 1, 1, 0, 0, 0},
