@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 
 /*
- * Problem statement is here: https://www.hackerrank.com/challenges/2d-array/problem?
+ * Problem statement is here: https://www.hackerrank.com/challenges/2d-array/problem
  */
 class TwoDArrayTest {
 
