@@ -17,6 +17,20 @@ written in java.
 
 [2D Array - DS](src/test/java/hackerrank/arrays/TwoDArrayTest.java)
 
+[Flipping bits](src/test/java/hackerrank/flippingBits/FlippingBitsTest.java)
+
+[Greedy Florist](src/test/java/hackerrank/greedyAlgorithms/GreedyFloristTest.java)
+
+[Count Triplets](src/test/java/hackerrank/hashMaps/CountTripletsTest.java)
+
+[Frequency Queries](src/test/java/hackerrank/hashMaps/FrequencyQueriesTest.java)
+
+[Hash Tables: Ransom Note](src/test/java/hackerrank/hashMaps/RansomNoteTest.java)
+
+[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
+
+[Two String](src/test/java/hackerrank/hashMaps/TwoStringsTest.java)
+
 ### LeeCode
 
 [278. First Bad Version](src/test/java/leecode/FirstBadVersionTest.java)
