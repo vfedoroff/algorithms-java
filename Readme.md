@@ -38,3 +38,5 @@ written in java.
 [346. Moving Average from Data Stream](src/test/java/leecode/MovingAverageDataStreamTest.java)
 
 [1086. High Five](src/test/java/leecode/HighFiveTest.java)
+
+[136. Single Number](src/test/java/leecode/SingleNumberTest.java)
