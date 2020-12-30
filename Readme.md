@@ -40,3 +40,5 @@ written in java.
 [1086. High Five](src/test/java/leecode/HighFiveTest.java)
 
 [136. Single Number](src/test/java/leecode/SingleNumberTest.java)
+
+[1. Two Sum](src/test/java/leecode/TwoSumTest.java)
