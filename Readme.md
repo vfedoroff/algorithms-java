@@ -43,4 +43,6 @@ written in java.
 
 [121. Best Time to Buy and Sell Stock](src/test/java/leecode/BestTimeToBuyAndSellStockTest.java)
 
+[53. Maximum Subarray](src/test/java/leecode/MaximumSubarrayTest.java)
+
 [1. Two Sum](src/test/java/leecode/TwoSumTest.java)
