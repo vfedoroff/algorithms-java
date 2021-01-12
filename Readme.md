@@ -35,6 +35,8 @@ written in java.
 
 [1086. High Five](src/test/java/leecode/HighFiveTest.java)
 
+[415. Add Strings](src/test/java/leecode/AddStrings.java)
+
 [346. Moving Average from Data Stream](src/test/java/leecode/MovingAverageDataStreamTest.java)
 
 [278. First Bad Version](src/test/java/leecode/FirstBadVersionTest.java)
