@@ -51,6 +51,8 @@ written in java.
 
 [53. Maximum Subarray](src/test/java/leecode/MaximumSubarrayTest.java)
 
+[20. Valid Parentheses](src/test/java/leecode/ValidParenthesesTest.java)
+
 [7. Reverse Integer](src/test/java/leecode/ReverseIntegerTest.java)
 
 [1. Two Sum](src/test/java/leecode/TwoSumTest.java)
