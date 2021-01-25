@@ -51,6 +51,8 @@ written in java.
 
 [53. Maximum Subarray](src/test/java/leecode/MaximumSubarrayTest.java)
 
+[21. Merge Two Sorted Lists](src/test/java/leecode/MergeTwoSortedListsTest.java)
+
 [20. Valid Parentheses](src/test/java/leecode/ValidParenthesesTest.java)
 
 [7. Reverse Integer](src/test/java/leecode/ReverseIntegerTest.java)
