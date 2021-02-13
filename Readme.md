@@ -35,6 +35,8 @@ written in java.
 
 [1086. High Five](src/test/java/leecode/HighFiveTest.java)
 
+[706. Design HashMap](src/test/java/leecode/DesignHashMapTest.java)
+
 [415. Add Strings](src/test/java/leecode/AddStrings.java)
 
 [346. Moving Average from Data Stream](src/test/java/leecode/MovingAverageDataStreamTest.java)
