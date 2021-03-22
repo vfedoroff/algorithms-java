@@ -51,6 +51,8 @@ written in java.
 
 [121. Best Time to Buy and Sell Stock](src/test/java/leecode/BestTimeToBuyAndSellStockTest.java)
 
+[91. Decode Ways](src/test/java/leecode/DecodeWaysTest.java)
+
 [53. Maximum Subarray](src/test/java/leecode/MaximumSubarrayTest.java)
 
 [21. Merge Two Sorted Lists](src/test/java/leecode/MergeTwoSortedListsTest.java)
