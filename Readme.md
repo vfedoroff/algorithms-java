@@ -66,3 +66,5 @@ written in java.
 [7. Reverse Integer](src/test/java/leecode/ReverseIntegerTest.java)
 
 [1. Two Sum](src/test/java/leecode/TwoSumTest.java)
+
+[Remove Duplicates from Sorted Array](src/test/java/leecode/RemoveDuplicatesTest.java)
