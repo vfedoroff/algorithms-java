@@ -43,6 +43,8 @@ written in java.
 
 [278. First Bad Version](src/test/java/leecode/FirstBadVersionTest.java)
 
+[217. Contains Duplicate](src/test/java/leecode/ContainsDuplicateTest.java)
+
 [206. Reverse Linked List](src/test/java/leecode/ReverseLinkedListTest.java)
 
 [155. Min Stack](src/test/java/leecode/MinStackTest.java)
