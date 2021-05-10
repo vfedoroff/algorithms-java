@@ -43,6 +43,8 @@ written in java.
 
 [346. Moving Average from Data Stream](src/test/java/leecode/MovingAverageDataStreamTest.java)
 
+[283. Move Zeroes](src/test/java/leecode/MoveZerosTest.java)
+
 [278. First Bad Version](src/test/java/leecode/FirstBadVersionTest.java)
 
 [217. Contains Duplicate](src/test/java/leecode/ContainsDuplicateTest.java)
