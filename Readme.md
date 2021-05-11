@@ -39,6 +39,8 @@ written in java.
 
 [415. Add Strings](src/test/java/leecode/AddStrings.java)
 
+[387. First Unique Character in a String](src/test/java/leecode/FirstUniqCharTest.java)
+
 [350. Intersection of Two Arrays II](src/test/java/leecode/IntersectionOfTwoArraysII.java)
 
 [346. Moving Average from Data Stream](src/test/java/leecode/MovingAverageDataStreamTest.java)
