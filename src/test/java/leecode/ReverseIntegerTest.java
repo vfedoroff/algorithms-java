@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ReverseIntegerTest {
     class Solution {
         public int reverse(int x) {
-            boolean isNegative = x < 0;
             int num = x;
             int n = 0;
             int p = 0;
