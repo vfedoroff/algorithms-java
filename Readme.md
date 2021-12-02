@@ -80,3 +80,7 @@ written in java.
 [1. Two Sum](src/test/java/leecode/TwoSumTest.java)
 
 [Remove Duplicates from Sorted Array](src/test/java/leecode/RemoveDuplicatesTest.java)
+
+Educative
+
+[Smallest Subarray with a given sum (easy)](src/test/java/educative/MinSizeSubArraySumTest.java)

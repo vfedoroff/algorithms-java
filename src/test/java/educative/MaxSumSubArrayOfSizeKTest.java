@@ -3,7 +3,7 @@ package educative;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-public class MaxSumSubArrayOfSizeK {
+public class MaxSumSubArrayOfSizeKTest {
   public static int findMaxSumSubArray(int k, int[] arr) {
     int maxSum = 0;
     int windowSum = 0;
