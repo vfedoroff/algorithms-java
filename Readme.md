@@ -86,3 +86,5 @@ Educative
 [Smallest Subarray with a given sum (easy)](src/test/java/educative/MinSizeSubArraySumTest.java)
 
 [Longest Substring with maximum K Distinct Characters (medium)](src/test/java/educative/LongestSubstringKDistinctTest.java)
+
+[Fruits into Baskets](src/test/java/educative/MaxFruitCountOf2TypesTest.java)
