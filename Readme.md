@@ -90,3 +90,5 @@ Educative
 [Fruits into Baskets](src/test/java/educative/MaxFruitCountOf2TypesTest.java)
 
 [Longest Substring with Distinct Characters (hard)](src/test/java/educative/NoRepeatSubstringTest.java)
+
+[Longest Substring with Same Letters after Replacement (hard)](src/test/java/educative/CharacterReplacementTest.java)
