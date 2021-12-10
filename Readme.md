@@ -92,3 +92,4 @@ Educative
 [Longest Substring with Distinct Characters (hard)](src/test/java/educative/NoRepeatSubstringTest.java)
 
 [Longest Substring with Same Letters after Replacement (hard)](src/test/java/educative/CharacterReplacementTest.java)
+[Longest Subarray with Ones after Replacement (hard)](src/test/java/educative/ReplacingOnesTest.java)

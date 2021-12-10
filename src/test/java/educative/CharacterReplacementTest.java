@@ -3,9 +3,8 @@ package educative;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
+
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -29,6 +28,7 @@ public class CharacterReplacementTest {
         }
         return maxLength;
     }
+
     @Test
     void testFindLength(){
         assertEquals(5, findLength("aabccbb",2));
