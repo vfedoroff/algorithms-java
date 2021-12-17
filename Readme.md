@@ -94,3 +94,4 @@ Educative
 [Longest Substring with Same Letters after Replacement (hard)](src/test/java/educative/CharacterReplacementTest.java)
 [Longest Subarray with Ones after Replacement (hard)](src/test/java/educative/ReplacingOnesTest.java)
 [Permutation in a String (hard)#](src/test/java/educative/StringPermutationTest.java)
+[String Anagrams (hard)#](src/test/java/educative/StringAnagramsTest.java)
