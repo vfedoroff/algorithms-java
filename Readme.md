@@ -96,3 +96,4 @@ Educative
 [Permutation in a String (hard)#](src/test/java/educative/StringPermutationTest.java)
 [String Anagrams (hard)#](src/test/java/educative/StringAnagramsTest.java)
 [Smallest Window containing Substring (hard)#](src/test/java/educative/MinimumWindowSubstringTest.java)
+[Pair with Target Sum (easy)](src/test/java/educative/PairWithTargetSumTest.java)
