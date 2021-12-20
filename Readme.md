@@ -97,3 +97,4 @@ Educative
 [String Anagrams (hard)#](src/test/java/educative/StringAnagramsTest.java)
 [Smallest Window containing Substring (hard)#](src/test/java/educative/MinimumWindowSubstringTest.java)
 [Pair with Target Sum (easy)](src/test/java/educative/PairWithTargetSumTest.java)
+[Remove Duplicates (easy)](src/test/java/educative/RemoveDuplicatesTest.java)
