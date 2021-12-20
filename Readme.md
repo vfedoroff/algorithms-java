@@ -98,3 +98,4 @@ Educative
 [Smallest Window containing Substring (hard)#](src/test/java/educative/MinimumWindowSubstringTest.java)
 [Pair with Target Sum (easy)](src/test/java/educative/PairWithTargetSumTest.java)
 [Remove Duplicates (easy)](src/test/java/educative/RemoveDuplicatesTest.java)
+[Squaring a Sorted Array (easy)](src/test/java/educative/SortedArraySquaresTest.java)
