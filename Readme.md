@@ -99,3 +99,4 @@ Educative
 [Pair with Target Sum (easy)](src/test/java/educative/PairWithTargetSumTest.java)
 [Remove Duplicates (easy)](src/test/java/educative/RemoveDuplicatesTest.java)
 [Squaring a Sorted Array (easy)](src/test/java/educative/SortedArraySquaresTest.java)
+[Triplet Sum Close to Target (medium)](src/test/java/educative/TripletSumCloseToTargetTest.java)
