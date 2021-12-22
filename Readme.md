@@ -103,3 +103,4 @@ Educative
 [Triplets with Smaller Sum (medium)](src/test/java/educative/TripletWithSmallerSumTest.java)
 [Subarrays with Product Less than a Target (medium)](src/test/java/educative/SubarrayProductLessThanK.java)
 [Dutch National Flag Problem (medium)](src/test/java/educative/DutchFlagTest.java)
+[LinkedList Cycle (easy)](src/test/java/educative/LinkedListCycleTest.java)
