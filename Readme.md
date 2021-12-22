@@ -105,3 +105,4 @@ Educative
 [Dutch National Flag Problem (medium)](src/test/java/educative/DutchFlagTest.java)
 [LinkedList Cycle (easy)](src/test/java/educative/LinkedListCycleTest.java)
 [Happy Number (medium)](src/test/java/educative/HappyNumberTest.java)
+[Middle of the LinkedList (easy)](src/test/java/educative/MiddleOfLinkedListTest.java)
