@@ -106,3 +106,4 @@ Educative
 [LinkedList Cycle (easy)](src/test/java/educative/LinkedListCycleTest.java)
 [Happy Number (medium)](src/test/java/educative/HappyNumberTest.java)
 [Middle of the LinkedList (easy)](src/test/java/educative/MiddleOfLinkedListTest.java)
+[Merge Intervals (medium)](src/test/java/educative/MergeIntervalsTest.java)
