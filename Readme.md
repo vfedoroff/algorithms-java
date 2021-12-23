@@ -108,3 +108,4 @@ Educative
 [Middle of the LinkedList (easy)](src/test/java/educative/MiddleOfLinkedListTest.java)
 [Merge Intervals (medium)](src/test/java/educative/MergeIntervalsTest.java)
 [Insert Interval (medium)](src/test/java/educative/InsertIntervalTest.java)
+[Intervals Intersection (medium)](src/test/java/educative/IntervalsIntersectionTest.java)

@@ -47,7 +47,7 @@ public class MergeIntervalsTest {
     }
 }
 
-class Interval {
+class Interval implements Comparable<Interval>{
     int start;
     int end;
 
@@ -71,5 +71,10 @@ class Interval {
         // field comparison
         return Objects.equals(start, person.start)
                 && Objects.equals(end, person.end);
+    }
+
+    @Override
+    public int compareTo(Interval o) {
+        return Integer.compare(this.start, o.start);
     }
 };
