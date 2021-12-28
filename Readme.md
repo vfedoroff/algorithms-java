@@ -109,3 +109,4 @@ Educative
 [Merge Intervals (medium)](src/test/java/educative/MergeIntervalsTest.java)
 [Insert Interval (medium)](src/test/java/educative/InsertIntervalTest.java)
 [Intervals Intersection (medium)](src/test/java/educative/IntervalsIntersectionTest.java)
+[Conflicting Appointments (medium)](src/test/java/educative/ConflictingAppointmentsTest.java)
