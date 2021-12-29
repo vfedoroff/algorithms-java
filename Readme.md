@@ -111,3 +111,4 @@ Educative
 [Intervals Intersection (medium)](src/test/java/educative/IntervalsIntersectionTest.java)
 [Conflicting Appointments (medium)](src/test/java/educative/ConflictingAppointmentsTest.java)
 [Minimum Meeting Rooms (hard)](src/test/java/educative/MinimumMeetingRoomsTest.java)
+[Maximum CPU Load (hard)](src/test/java/educative/MaximumCPULoadTest.java)
