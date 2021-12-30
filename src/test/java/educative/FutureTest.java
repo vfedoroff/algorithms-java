@@ -11,6 +11,10 @@ public class FutureTest {
     void testAsync() throws ExecutionException, InterruptedException {
         ExecutorService executor = Executors.newFixedThreadPool(10);
 
+        new Thread(()->{
+            System.out.println("Thread");
+        }).start();
+
         executor.execute(()->{
             System.out.println(LocalTime.now());
         });
@@ -23,5 +27,17 @@ public class FutureTest {
             return String.valueOf(LocalTime.now());
         }, executor);
         System.out.println(strFuture.get());
+
+        CompletableFuture<String> cf = CompletableFuture.supplyAsync(()-> {
+            System.out.println(LocalTime.now());
+            throw new RuntimeException("Boom");
+        }, executor);
+        cf.exceptionally(ex->{
+           System.out.println(ex.toString());
+            return "exception";
+        });
+        try {
+            System.out.println(cf.join());
+        } catch (CompletionException e){}
     }
 }
