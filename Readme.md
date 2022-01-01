@@ -114,3 +114,4 @@ Educative
 [Maximum CPU Load (hard)](src/test/java/educative/MaximumCPULoadTest.java)
 [Find the Missing Number (easy)](src/test/java/educative/MissingNumberTest.java)
 [Find all Missing Numbers (easy)](src/test/java/educative/AllMissingNumbersTest.java)
+[Find the Duplicate Number (easy)](src/test/java/educative/FindDuplicateTest.java)
