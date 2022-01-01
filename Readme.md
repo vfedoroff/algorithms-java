@@ -113,3 +113,4 @@ Educative
 [Minimum Meeting Rooms (hard)](src/test/java/educative/MinimumMeetingRoomsTest.java)
 [Maximum CPU Load (hard)](src/test/java/educative/MaximumCPULoadTest.java)
 [Find the Missing Number (easy)](src/test/java/educative/MissingNumberTest.java)
+[Find all Missing Numbers (easy)](src/test/java/educative/AllMissingNumbersTest.java)
