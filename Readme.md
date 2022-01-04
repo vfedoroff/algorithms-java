@@ -116,3 +116,4 @@ Educative
 [Find all Missing Numbers (easy)](src/test/java/educative/AllMissingNumbersTest.java)
 [Find the Duplicate Number (easy)](src/test/java/educative/FindDuplicateTest.java)
 [Find all Duplicate Numbers (easy)](src/test/java/educative/FindAllDuplicateTest.java)
+[Reverse a LinkedList (easy)](src/test/java/educative/ReverseLinkedListTest.java)
