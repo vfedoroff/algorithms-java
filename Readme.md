@@ -117,3 +117,4 @@ Educative
 [Find the Duplicate Number (easy)](src/test/java/educative/FindDuplicateTest.java)
 [Find all Duplicate Numbers (easy)](src/test/java/educative/FindAllDuplicateTest.java)
 [Reverse a LinkedList (easy)](src/test/java/educative/ReverseLinkedListTest.java)
+[Reverse a Sub-list (medium)](src/test/java/educative/ReverseSubListTest.java)
