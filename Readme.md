@@ -120,3 +120,4 @@ Educative
 [Reverse a Sub-list (medium)](src/test/java/educative/ReverseSubListTest.java)
 [Binary Tree Level Order Traversal (easy)](src/test/java/educative/LevelOrderTraversalTest.java)
 [Reverse Level Order Traversal (easy)](src/test/java/educative/ReverseLevelOrderTraversalTest.java)
+[Zigzag Traversal (medium)](src/test/java/educative/ZigzagTraversalTest.java)
