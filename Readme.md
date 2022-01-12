@@ -121,3 +121,4 @@ Educative
 [Binary Tree Level Order Traversal (easy)](src/test/java/educative/LevelOrderTraversalTest.java)
 [Reverse Level Order Traversal (easy)](src/test/java/educative/ReverseLevelOrderTraversalTest.java)
 [Zigzag Traversal (medium)](src/test/java/educative/ZigzagTraversalTest.java)
+[Level Averages in a Binary Tree (easy)](src/test/java/educative/LevelAverageTest.java)
