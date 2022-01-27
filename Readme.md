@@ -122,3 +122,4 @@ Educative
 [Reverse Level Order Traversal (easy)](src/test/java/educative/ReverseLevelOrderTraversalTest.java)
 [Zigzag Traversal (medium)](src/test/java/educative/ZigzagTraversalTest.java)
 [Level Averages in a Binary Tree (easy)](src/test/java/educative/LevelAverageTest.java)
+[Minimum Depth of a Binary Tree (easy)](src/test/java/educative/MinimumBinaryTreeDepthTest.java)
