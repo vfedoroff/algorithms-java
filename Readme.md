@@ -124,3 +124,4 @@ Educative
 [Level Averages in a Binary Tree (easy)](src/test/java/educative/LevelAverageTest.java)
 [Minimum Depth of a Binary Tree (easy)](src/test/java/educative/MinimumBinaryTreeDepthTest.java)
 [Level Order Successor (easy)](src/test/java/educative/LevelOrderSuccessorTest.java)
+[Binary Tree Path Sum (easy)](src/test/java/educative/TreePathSumTest.java)
