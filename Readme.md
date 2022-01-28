@@ -81,6 +81,8 @@ written in java.
 
 [Remove Duplicates from Sorted Array](src/test/java/leecode/RemoveDuplicatesTest.java)
 
+[1578. Minimum Time to Make Rope Colorful](src/test/java/leecode/MinCostTest.java)
+
 Educative
 
 [Smallest Subarray with a given sum (easy)](src/test/java/educative/MinSizeSubArraySumTest.java)
