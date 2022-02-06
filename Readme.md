@@ -127,3 +127,4 @@ Educative
 [Minimum Depth of a Binary Tree (easy)](src/test/java/educative/MinimumBinaryTreeDepthTest.java)
 [Level Order Successor (easy)](src/test/java/educative/LevelOrderSuccessorTest.java)
 [Binary Tree Path Sum (easy)](src/test/java/educative/TreePathSumTest.java)
+[Find the Median of a Number Stream (medium)](src/test/java/educative/MedianOfAStreamTest.java)
